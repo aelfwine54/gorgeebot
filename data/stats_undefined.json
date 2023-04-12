@@ -1,0 +1,13 @@
+{
+    "compteurs": {
+        "shooter": 1
+    },
+    "users": {
+        "drgorgee": {
+            "compteurs": {
+                "shooter": 1
+            }
+        }
+    },
+    "CHEMIN_PAR_DEFAUT": "./data/stats_undefined.json"
+}
